@@ -11,7 +11,7 @@ from langchain_community.chat_models import ChatOpenAI
 from langchain_core.prompts import PromptTemplate
 from langchain.chains import RetrievalQA
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from dotenv import load_dotenv  # Import to load environment variables from .env file
+from dotenv import load_dotenv 
 
 # Load environment variables from .env file
 load_dotenv()
