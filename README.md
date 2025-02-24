@@ -27,8 +27,8 @@ You can either clone the repository using Git or download it as a ZIP file.
 
 #### Option 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/website-scraper-qa-system.git
-cd website-scraper-qa-system
+git clone https://github.com/Mr-PU/web-extractor-gpt.git
+cd web-extractor-gpt
 ```
 
 #### Option 2: Download as ZIP
