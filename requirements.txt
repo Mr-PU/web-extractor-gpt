@@ -1,0 +1,7 @@
+streamlit
+firecrawl-py
+langchain
+langchain-community
+faiss-cpu
+openai==0.27.0
+tiktoken
