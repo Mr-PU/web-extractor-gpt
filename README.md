@@ -15,9 +15,9 @@ Before running the application, ensure you have the following:
 
 - Python 3.8 or higher installed on your system.
 - **API Keys:**
-  - OpenAI API Key: Sign up at OpenAI and get your API key.
-  - Firecrawl API Key: Sign up at Firecrawl and get your API key.
-- Git installed (optional, for cloning the repository).
+  - [OpenAI API Key](https://platform.openai.com/api-keys): Sign up at OpenAI and get your API key.
+  - [Firecrawl API Key](https://www.firecrawl.dev/): Sign up at Firecrawl and get your API key.
+- **Git installed** (optional, for cloning the repository).
 
 ## Installation and Setup
 
